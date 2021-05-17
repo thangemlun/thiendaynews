@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//Database/insert_data.sql=UTF-8
+encoding//src/main/java/com/thienday/controller/web/CategoryController.java=UTF-8
+encoding//src/main/java/com/thienday/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/thienday/controller/web/NewsController.java=UTF-8
+encoding//src/main/java/com/thienday/controller/web/SearchController.java=UTF-8
+encoding//src/main/java/com/thienday/controller/web/UserController.java=UTF-8
+encoding//src/main/java/com/thienday/service/impl/NewsService.java=UTF-8
+encoding//src/main/java/com/thienday/service/impl/UserService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/register.jsp=UTF-8
+encoding//src/main/webapp/decorators/web.jsp=UTF-8
+separateDerivedEncodings=true

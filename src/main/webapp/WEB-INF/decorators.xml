@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/decorators">
+	
+	<decorator name="trang-chu" page="web.jsp">
+		<pattern>/trang-chu</pattern>
+	</decorator>
+	
+	<decorator name="admin" page="admin.jsp">
+		<pattern>/quan-tri*</pattern>
+	</decorator>
+	
+	<decorator name="login" page="login.jsp">
+        <pattern>/dang-nhap</pattern>
+    </decorator>
+    
+    <decorator name="register" page="register.jsp">
+        <pattern>/dang-ky</pattern>
+    </decorator>
+    
+    <decorator name="bai-viet" page="web.jsp">
+		<pattern>/bai-viet</pattern>
+	</decorator>
+	
+	<decorator name="danh-muc" page="web.jsp">
+		<pattern>/danh-muc</pattern>
+	</decorator>
+	
+	<decorator name="tim-kiem" page="web.jsp">
+		<pattern>/tim-kiem</pattern>
+	</decorator>
+	
+</decorators>
